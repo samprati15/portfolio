@@ -1,0 +1,11 @@
+Vercel CLI 48.2.7
+Retrieving projectΓÇª
+Deploying samprati-sawalas-projects/profile
+Uploading [--------------------] (0.0B/13.9KB)
+Uploading [====================] (13.9KB/13.9KB)
+Inspect: https://vercel.com/samprati-sawalas-projects/profile/2zjmmt1BDfp6ZGFtMxBjAFQYCcTD [2s]
+Production: https://profile-gvebtd46o-samprati-sawalas-projects.vercel.app [2s]
+Building
+Building
+Completing
+https://profile-gvebtd46o-samprati-sawalas-projects.vercel.app
