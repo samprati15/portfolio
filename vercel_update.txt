@@ -1,0 +1,3 @@
+Vercel CLI 48.2.7
+Retrieving projectΓÇª
+Deploying samprati-sawalas-projects/profile

@@ -1,0 +1,16 @@
+Vercel CLI 48.2.7
+Retrieving projectΓÇª
+Your Project was either deleted, transferred to a new Team, or you donΓÇÖt have access to it anymore.
+Loading scopesΓÇª
+Searching for existing projectsΓÇª
+Linked to samprati-sawalas-projects/profile (created .vercel)
+Deploying samprati-sawalas-projects/profile
+Uploading [--------------------] (0.0B/775B)
+Uploading [========------------] (320.0B/775B)
+Uploading [====================] (775.0B/775B)
+Inspect: https://vercel.com/samprati-sawalas-projects/profile/DknQLK2HVmR3XzAyj6ULyZT6mYSf [2s]
+Production: https://profile-5zr254m06-samprati-sawalas-projects.vercel.app [2s]
+Building
+Building
+Completing
+https://profile-5zr254m06-samprati-sawalas-projects.vercel.app
