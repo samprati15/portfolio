@@ -336,6 +336,20 @@ ul {
     animation: float-badge 5.5s ease-in-out infinite alternate;
 }
 
+.badge-5 {
+    top: 45%;
+    left: -18%;
+    color: #a855f7; /* AI Purple */
+    animation: float-badge 6s ease-in-out infinite alternate;
+}
+
+.badge-6 {
+    top: 45%;
+    right: -18%;
+    color: #ec4899; /* AI Pink */
+    animation: float-badge 5s ease-in-out infinite alternate-reverse;
+}
+
 @keyframes float-badge {
     0% { transform: translateY(0); }
     100% { transform: translateY(-15px); }
