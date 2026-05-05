@@ -322,6 +322,20 @@ ul {
     animation: float-badge 5s ease-in-out infinite alternate-reverse;
 }
 
+.badge-3 {
+    top: 15%;
+    right: -10%;
+    color: #00a1e0; /* Salesforce color */
+    animation: float-badge 4.5s ease-in-out infinite alternate-reverse;
+}
+
+.badge-4 {
+    bottom: 10%;
+    left: -10%;
+    color: #ff5722; /* Digital Marketing color */
+    animation: float-badge 5.5s ease-in-out infinite alternate;
+}
+
 @keyframes float-badge {
     0% { transform: translateY(0); }
     100% { transform: translateY(-15px); }
