@@ -39,7 +39,7 @@ body {
     background-color: var(--bg-base);
     color: var(--text-main);
     font-family: var(--font-body);
-    line-height: 1.6;
+    line-height: 1.7;
     overflow-x: hidden;
     position: relative;
 }
@@ -62,7 +62,8 @@ ul {
 .wrapper {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 5%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .glass-panel {
@@ -361,7 +362,7 @@ section {
 }
 
 .section-header {
-    margin-bottom: 3.5rem;
+    margin-bottom: 4.5rem;
 }
 
 .section-header.center {
@@ -373,7 +374,7 @@ section {
 
 .section-title {
     font-size: 2.2rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1.2rem;
 }
 
 .section-line {
@@ -455,7 +456,7 @@ section {
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
+    gap: 2.5rem;
 }
 
 .skill-category {
@@ -524,7 +525,7 @@ section {
 .project-cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    gap: 2rem;
+    gap: 2.5rem;
 }
 
 .project-card {
@@ -549,7 +550,7 @@ section {
 
 .project-content h3 {
     font-size: 1.4rem;
-    margin-bottom: 0.8rem;
+    margin-bottom: 1.2rem;
 }
 
 .project-desc {
@@ -593,7 +594,7 @@ section {
 .timeline-item {
     position: relative;
     padding-left: 60px;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
 }
 
 .timeline-item:last-child {
